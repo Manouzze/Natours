@@ -9,6 +9,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "morgan": "^1.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manouzze/Natours.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Manouzze/Natours/issues"
+  },
+  "homepage": "https://github.com/Manouzze/Natours#readme",
+  "devDependencies": {
     "express": "^4.18.1",
     "nodemon": "^2.0.19"
   }
